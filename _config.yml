@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 一份耕耘一份收获
 subtitle:
 description:
-author: SDS
+author: why
 language:
 timezone:
 
@@ -68,6 +68,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: 
+  type:
   # repo: git@github.com:WHY1121/WHY1121.github.io.git
   # branch: gh-pages
